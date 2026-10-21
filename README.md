@@ -1,8 +1,8 @@
-# ORIE 5355 Project 2026
+# Applied Data Science: Decision Making Beyond Prediction
 
-[Project instructions](https://docs.google.com/document/d/1MSqzgD7nfi8dm48dM6qNIZkDNmIZmcag6WWIjUcZ0O4)
+# ORIE 5355/INFO 5370 - Fall 2026
 
-Use this one repository for all project parts.
+# Aakarsh Gundu
 
 ## Setup
 
@@ -12,7 +12,7 @@ Install [uv](https://docs.astral.sh/uv/getting-started/installation/), then run 
 uv venv --python 3.13
 uv pip install --python .venv -r requirements.txt
 uv pip install --python .venv ipykernel
-uv pip check --python .venv
+uv pip check --python .vev
 ```
 
-Select `.venv` as the notebook kernel in VS Code. Do not submit `.venv`.
+Select `.venv` as the notebook kernel in VS Code
